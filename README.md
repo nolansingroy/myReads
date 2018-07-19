@@ -1,4 +1,5 @@
 # My Reads - A React jS Project
+
 # Purpose
 I explore concepts such as:  
 Composition Model  
@@ -17,7 +18,7 @@ you interact with the application.
 
 # Running the Application
 you will need the server and the actual program on different ports  
-
+specifcly port 3000 and 4200
 
 - Installing dependencies:
 ```{r, engine='bash', count_lines}
@@ -32,4 +33,5 @@ $ npm start
 
 
 ## More information
+Issues
 
