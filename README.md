@@ -15,7 +15,9 @@ an API server and client library that you will use to persist information as
 you interact with the application.
 
 
-## Running  
+# Running the Application
+you will need the server and the actual program on different ports  
+
 
 - Installing dependencies:
 ```{r, engine='bash', count_lines}
