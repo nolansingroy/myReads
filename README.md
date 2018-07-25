@@ -15,7 +15,6 @@ read. The project emphasizes using React to build the application and provides
 an API server and client library that you will use to persist information as
 you interact with the application.
 
-> Udacity
 
 ## Running  
 
@@ -23,7 +22,7 @@ you interact with the application.
 ```{r, engine='bash', count_lines}
 $ npm install
 ```
-
+- link to server 
 - Running server:  
 ```{r, engine='bash', count_lines}
 $ npm start
