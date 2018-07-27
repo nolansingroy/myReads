@@ -9,9 +9,6 @@ Unidirectional data flow
 React Router
 Controlled Components  
 
-### Demo  
-[My-reads](https://fschwalm.github.io/my-reads/#/)
-
 ### Requirement  
 > In the MyReads project, you'll create a bookshelf app that allows you to
 select and categorize books you have read, are currently reading, or want to
@@ -39,7 +36,3 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## More information
 
-[Udacity my-reads-starter.](https://github.com/udacity/reactnd-project-myreads-starter)
-# myReads
-# myReads
-# myReads
