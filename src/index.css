@@ -1,6 +1,8 @@
 html {
   box-sizing: border-box;
-/* comment*/
+/* comment
+border box size
+*/
 }
 *, *:before, *:after {
   box-sizing: inherit;
